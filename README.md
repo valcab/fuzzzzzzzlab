@@ -34,6 +34,28 @@ cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build --config Release
 ```
 
+### One-command build (recommended)
+
+```bash
+make build
+```
+
+Other useful commands:
+
+```bash
+make debug
+make release
+make run-standalone
+make clean
+```
+
+Or run the script directly:
+
+```bash
+./scripts/build.sh Release
+./scripts/build.sh Debug
+```
+
 JUCE is pulled automatically with CMake `FetchContent`.
 
 ## Parameters
