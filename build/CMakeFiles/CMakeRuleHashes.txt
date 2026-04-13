@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+d79fa9282b81d630295a6600aaf62f71 FuzzVST_artefacts/JuceLibraryCode/FuzzVST_AU/PkgInfo
+aa1425f65e97be7493ec34d6bbe01891 FuzzVST_artefacts/JuceLibraryCode/FuzzVST_Standalone/PkgInfo
+32844f78ba969e09d7968e363ecf3a60 FuzzVST_artefacts/JuceLibraryCode/FuzzVST_VST3/PkgInfo
+07130966eab508bc66c3f9a174258e57 FuzzVST_artefacts/JuceLibraryCode/JuceHeader.h

@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/valentincabioch/dev/fuzzVST/build/cmake_install.cmake",
+		"/Users/valentincabioch/dev/fuzzVST/build/_deps/juce-build/cmake_install.cmake",
+		"/Users/valentincabioch/dev/fuzzVST/build/_deps/juce-build/modules/cmake_install.cmake",
+		"/Users/valentincabioch/dev/fuzzVST/build/_deps/juce-build/extras/Build/cmake_install.cmake",
+		"/Users/valentincabioch/dev/fuzzVST/build/_deps/juce-build/extras/Build/juceaide/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
